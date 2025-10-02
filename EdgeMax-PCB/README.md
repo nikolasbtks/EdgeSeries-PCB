@@ -36,7 +36,7 @@ This project demonstrates a custom 4-layer PCB containing the STM32H743ZIT6 micr
    - Support for cryptographic authentication.
   
 10. NOR Flash Storage: MT25QL256ABA1EW9-0SIT
-   - 256 Mbit Memory Size.
+    - 256 Mbit Memory Size.
      
 ## Disclaimer
 
